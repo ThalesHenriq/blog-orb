@@ -1,0 +1,36 @@
+
+body{
+    background-color: #111; 
+}
+
+nav{
+    margin-top: 100px;
+    background-color: #666;
+    width: auto;
+    height: 70px;
+    border-bottom: 1px solid #aaa;
+    border-top: 1px solid #aaa;
+}
+
+#menu_Align{
+    width: 1024px;
+    height: 68px;
+    margin: 0 auto;
+}
+
+#menu_Logo{
+    background-image: url(images/logo.png);
+    background-repeat: no-repeat;
+    margin: 5px 15px;
+    width: 150px;
+    height: 150px;
+    float: left;
+    padding: 10px 50px 10px 20px;
+}
+
+nav ul{
+    padding: 10px 20px;
+    margin: 0px;
+    float: left;
+    width: 100%;
+}
